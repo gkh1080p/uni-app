@@ -1,0 +1,59 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.section.data-v-ba6fa1b6 {
+  background-color: #fff;
+  margin: 20rpx 40rpx;
+  border: 1rpx solid #eee;
+  box-shadow: 0 0 30rpx rgba(0, 0, 0, 0.1);
+  border-radius: 10rpx;
+  overflow: hidden;
+}
+.section .list .row.data-v-ba6fa1b6 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10rpx 30rpx;
+  height: 100rpx;
+  border: 1rpx solid #eee;
+}
+.section .list .row.data-v-ba6fa1b6:last-child {
+  border-bottom: 0rpx;
+}
+.section .list .row .left.data-v-ba6fa1b6 {
+  display: flex;
+  align-items: center;
+}
+.section .list .row .left .text.data-v-ba6fa1b6 {
+  margin-left: 20rpx;
+  font-size: 30rpx;
+}
+.section .list .row .left.data-v-ba6fa1b6  .uni-icons {
+  color: #28B389 !important;
+}
+.section .list .row .right.data-v-ba6fa1b6 {
+  display: flex;
+  align-items: center;
+}
+.section .list .row .right.data-v-ba6fa1b6  .uni-icons {
+  color: #28B389 !important;
+}
+.section .list .row .right .number.data-v-ba6fa1b6 {
+  margin-right: 20rpx;
+  font-size: 30rpx;
+}
+.section .list .row .right button.data-v-ba6fa1b6 {
+  width: 120rpx;
+  height: 60rpx;
+  position: relative;
+}

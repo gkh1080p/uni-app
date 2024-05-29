@@ -1,0 +1,1 @@
+import{a}from"./api.BC6ic0yS.js";const i=["https://tea.qingnian8.com/api/bizhi/userInfo","https://tea.qingnian8.com/api/bizhi/userWallList"],t=()=>a(i[0]),p=(t,p,s)=>a(i[1],{type:t,pageNum:p,pageSize:s});export{p as a,t as g};

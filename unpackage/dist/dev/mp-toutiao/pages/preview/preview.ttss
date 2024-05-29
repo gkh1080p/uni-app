@@ -1,0 +1,171 @@
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.preview.data-v-2dad6c07 {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+.preview swiper.data-v-2dad6c07 {
+  width: 100%;
+  height: 100%;
+}
+.preview swiper image.data-v-2dad6c07 {
+  width: 100%;
+  height: 100%;
+}
+.preview .mask > view.data-v-2dad6c07 {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: -webkit-fit-content;
+  width: fit-content;
+  color: white;
+}
+.preview .mask .goBack.data-v-2dad6c07 {
+  top: 1vh;
+  left: 40rpx;
+}
+.preview .mask .content.data-v-2dad6c07 {
+  top: 10vh;
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 30rpx;
+  border-radius: 40rpx;
+  padding: 8rpx 20rpx;
+  background-filter: blur(10rpx);
+}
+.preview .mask .time.data-v-2dad6c07 {
+  font-size: 140rpx;
+  top: calc(10vh + 80rpx);
+  font-weight: 200rpx;
+  line-height: 1em;
+  text-shadow: 0 4rpx rgba(0, 0, 0, 0.3);
+}
+.preview .mask .date.data-v-2dad6c07 {
+  top: calc(10vh + 230rpx);
+  font-size: 40rpx;
+  text-shadow: 0 4rpx rgba(0, 0, 0, 0.3);
+}
+.preview .mask .footer.data-v-2dad6c07 {
+  background: rgba(255, 255, 255, 0.8);
+  bottom: 5vh;
+  width: 60vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20rpx 40rpx;
+  border-radius: 120rpx;
+  color: #000;
+  box-shadow: 0 2rpx 0 rgba(0, 0, 0, 0.1);
+  background-filter: blur(20rpx);
+}
+.preview .Popup .infoPopup.data-v-2dad6c07 {
+  padding: 50rpx;
+  overflow: hidden;
+}
+.preview .Popup .infoPopup .popHeader.data-v-2dad6c07 {
+  width: 100%;
+  position: relative;
+}
+.preview .Popup .infoPopup .popHeader .title.data-v-2dad6c07 {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  height: 30rpx;
+  font-size: 35rpx;
+  color: #676767;
+}
+.preview .Popup .infoPopup .popHeader .close.data-v-2dad6c07 {
+  position: absolute;
+  top: 0.8vh;
+  right: 0;
+  padding: 0 20px;
+}
+.preview .Popup .infoPopup .scrollContent.data-v-2dad6c07 {
+  margin-top: 80rpx;
+  max-height: 60vh;
+}
+.preview .Popup .infoPopup .scrollContent .content .row.data-v-2dad6c07 {
+  display: flex;
+  justify-content: center;
+  padding: 16rpx 0;
+  font-size: 32rpx;
+}
+.preview .Popup .infoPopup .scrollContent .content .row .label.data-v-2dad6c07 {
+  color: #a7a7a7;
+  width: 140rpx;
+  text-align: right;
+  font-size: 30rpx;
+}
+.preview .Popup .infoPopup .scrollContent .content .row .value.data-v-2dad6c07 {
+  padding-left: 30rpx;
+  flex-grow: 1;
+  width: 0;
+}
+.preview .Popup .infoPopup .scrollContent .content .row .rate.data-v-2dad6c07 {
+  display: flex;
+  align-items: center;
+}
+.preview .Popup .infoPopup .scrollContent .content .row .rate text.data-v-2dad6c07 {
+  color: #ffca3e;
+  padding: 0 20rpx;
+}
+.preview .Popup .infoPopup .scrollContent .content .row .tabs.data-v-2dad6c07 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.preview .Popup .infoPopup .scrollContent .content .row .tabs .tab.data-v-2dad6c07 {
+  color: #28B389;
+  border: 1px solid #28B389;
+  font-size: 30rpx;
+  padding: 10rpx 30rpx;
+  border-radius: 40rpx;
+  line-height: em;
+  margin: 0 10rpx 10rpx 0;
+}
+.preview .Popup .infoPopup .scrollContent .content .row .copyright.data-v-2dad6c07 {
+  font-size: 28rpx;
+  padding: 20rpx;
+  background: #f6f6f6;
+  color: #666;
+  border-radius: 20rpx;
+  margin: 20rpx 0;
+  line-height: 1.6em;
+}
+.preview .scoreInfo.data-v-2dad6c07 {
+  width: 60vw;
+  min-height: 200rpx;
+  font-size: 28rpx;
+}
+.preview .scoreInfo .scoreHead.data-v-2dad6c07 {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  padding: 20rpx 0;
+}
+.preview .scoreInfo .content.data-v-2dad6c07 {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+.preview .scoreInfo .content text.data-v-2dad6c07 {
+  padding: 0 20rpx;
+  line-height: 1.5em;
+}
+.preview .scoreInfo .footer.data-v-2dad6c07 {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  padding: 20rpx;
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "list-row": "../../components/list-row/list-row"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";const i=require("../../utils/api.js"),t=["https://tea.qingnian8.com/api/bizhi/userInfo","https://tea.qingnian8.com/api/bizhi/userWallList"];exports.getHistoryList=(e,s,a)=>i.api(t[1],{type:e,pageNum:s,pageSize:a}),exports.getUserInfo=()=>i.api(t[0]);
